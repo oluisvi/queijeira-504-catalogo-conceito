@@ -9,4 +9,4 @@ Preparei um protótipo para mostrar a ideia: https://oluisvi.github.io/queijeira
 ## Envio
 - Anexar `arte/apresentacao.png` como foto na conversa, junto da mensagem acima.
 - Enviar somente depois de confirmar que o WhatsApp Web está autenticado e que a conversa aberta é “Queijeira 504 Loja Natal”, vinculada ao contato correto.
-- Status até 27/10/2026: **não enviado**. WhatsApp Web abriu desconectado, na tela de leitura de QR.
+- Status até 27/10/2026: **não enviado**. O deployment do GitHub Pages continua na fila e a URL ainda retorna 404; só usar esta mensagem depois que o site estiver respondendo. A sessão do navegador disponibilizada para automação abriu desconectada, na tela de QR, então não consegui verificar nem enviar na conversa. Isso não confirma o estado de outras abas abertas no Codex.
