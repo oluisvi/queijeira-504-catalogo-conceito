@@ -23,3 +23,6 @@ Abra `index.html` diretamente no navegador. Não requer build ou dependências.
 - O painel não tem autenticação nem grava dados; é uma demonstração de interface. A ideia é que o acesso real seja exclusivo do responsável definido pela loja.
 - O catálogo não está ligado à Meta. A disponibilidade e as informações reais dos produtos precisam ser mantidas conforme o processo que a loja aprovar.
 - `?panel-preview=1` abre a demonstração visual do painel no protótipo.
+
+## Publicação
+Protótipo para avaliação: https://oluisvi.github.io/queijeira-504-catalogo-conceito/

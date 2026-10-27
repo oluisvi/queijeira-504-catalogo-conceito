@@ -71,7 +71,7 @@ foreach ($j in 0..1) {
 }
 $g.DrawLine($pen,50,1416,1030,1416)
 $g.DrawString('Itens, fotos, preços e disponibilidade são exemplos a validar com a Queijeira 504.',$small,$brushM,50,1433)
-$g.DrawString('ESTUDO CONCEITUAL · NÃO PUBLICADO',$bold,$brushGold,50,1460)
+$g.DrawString('ESTUDO CONCEITUAL · VERSÃO DE AVALIAÇÃO',$bold,$brushGold,50,1460)
 $g.DrawString('ServAgency',$bold,$brushG,898,1460)
 $bmp.Save($out,[System.Drawing.Imaging.ImageFormat]::Png)
 $g.Dispose(); $bmp.Dispose()
